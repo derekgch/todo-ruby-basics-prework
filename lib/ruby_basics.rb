@@ -6,11 +6,11 @@ def assign_variable(value)
   value
 end
 
-def argue
-
+def argue(something)
+  return something
 end
 
-def greeting
+def greeting (greeting, name)
 
 end
 
